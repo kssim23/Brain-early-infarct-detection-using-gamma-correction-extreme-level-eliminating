@@ -1,4 +1,4 @@
-# Brain-early-infarct-detection-using-gamma-correction-extreme-level-eliminating
+# Brain early infarct detection using gamma correction extreme-level eliminating with weighting distribution
 
 Brain early infarct detection using gamma correction extreme-level eliminating with weighting distribution
 
